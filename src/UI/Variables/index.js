@@ -1,0 +1,11 @@
+export const textLightGray = "#8c8c8c";
+export const textDarkGray = "#737373";
+export const linkGray = "#b3b3b3";
+export const darkGray = "#303030";
+export const errorOrange = "#e87c03";
+export const linkBlue = "#0080ff";
+export const white = "white";
+export const black = "black";
+export const red = "#e50914";
+export const lime = "#46d369";
+export const cardBackground = "#181818";
